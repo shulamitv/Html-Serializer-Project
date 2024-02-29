@@ -1,0 +1,60 @@
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.csproj.AssemblyReference.cache
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.AssemblyInfoInputs.cache
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.AssemblyInfo.cs
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.exe
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.deps.json
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.runtimeconfig.json
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.dll
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.pdb
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.csproj.CopyComplete
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.dll
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\refint\HtmlSerilizer2.dll
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.pdb
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.genruntimeconfig.cache
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\obj\Debug\net6.0\ref\HtmlSerilizer2.dll
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\bin\Debug\net6.0\allHtml.json
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\bin\Debug\net6.0\withoutCloseTag.json
+D:\שיעורי בית\פרקטיקוד\HtmlSerilizer2\HtmlSerilizer2\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.exe
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\allHtml.json
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\withoutCloseTag.json
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.deps.json
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.runtimeconfig.json
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.dll
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.pdb
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.csproj.AssemblyReference.cache
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.AssemblyInfoInputs.cache
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.AssemblyInfo.cs
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.csproj.CopyComplete
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.dll
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\refint\HtmlSerilizer2.dll
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.pdb
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.genruntimeconfig.cache
+D:\שיעורי בית\פרקטיקוד\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\ref\HtmlSerilizer2.dll
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.exe
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\allHtml.json
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\withoutCloseTag.json
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.deps.json
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.runtimeconfig.json
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.dll
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlSerilizer2.pdb
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.AssemblyInfo.cs
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.csproj.CopyComplete
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.dll
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\refint\HtmlSerilizer2.dll
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.pdb
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\HtmlSerilizer2.genruntimeconfig.cache
+C:\Users\User\Downloads\jm_teVpX4TcikmD0vs\‏‏HtmlSerilizer2 - עותק\HtmlSerilizer2\obj\Debug\net6.0\ref\HtmlSerilizer2.dll
